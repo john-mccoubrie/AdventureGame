@@ -1,0 +1,11 @@
+﻿  Collision.cpp
+C:\Users\John\Desktop\SDLGames\SDL_YT_Tutorial\2D_GameEngine\TileComponent.h(36,1): warning C4102: 'case2': unreferenced label
+  Game.cpp
+C:\Users\John\Desktop\SDLGames\SDL_YT_Tutorial\2D_GameEngine\TileComponent.h(36,1): warning C4102: 'case2': unreferenced label
+C:\Users\John\Desktop\SDLGames\SDL_YT_Tutorial\2D_GameEngine\Game.cpp(33,9): warning C4553: '==': result of expression not used; did you intend '='?
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+  TextureManager.cpp
+  Generating Code...
+  2D_GameEngine.vcxproj -> C:\Users\John\Desktop\SDLGames\SDL_YT_Tutorial\x64\Debug\2D_GameEngine.exe
